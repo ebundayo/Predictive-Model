@@ -9,6 +9,6 @@ Predicting and preventing customer churn represents a huge additional potential 
 **Dataset, Features and Target value** </li><br>
 Database source:  https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2012.bak (AdventureWorks sample database)
 
-**Problem Statement**
+**Problem Statement** </li><br>
 Main Objective is to predict if AHG's customer will be churned between 90 days,  i.e when customer's churn propensity exceeds a specific threshold, say **0.7**.
 
