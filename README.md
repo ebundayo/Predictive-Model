@@ -6,7 +6,7 @@ The retail industry survives on the customers it has. The profit and revenue of 
 
 Predicting and preventing customer churn represents a huge additional potential revenue source for every business.
 
-**Dataset, Features and Target value**
+**Dataset, Features and Target value** </li><br>
 Database source:  https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2012.bak (AdventureWorks sample database)
 
 **Problem Statement**
