@@ -10,5 +10,7 @@ Predicting and preventing customer churn represents a huge additional potential 
 Database source:  https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2012.bak (AdventureWorks sample database)
 
 **Problem Statement** </li><br>
-Main Objective is to predict if AHG's customer will be churned between 90 days,  i.e when customer's churn propensity exceeds a specific threshold, say **0.7**.
+Main Objective is to predict if AHG's customer will be churned between 90 days,  i.e when customer's churn propensity exceeds a specific threshold, say **0.7**, and provide retention plans. Hence, to achieve this objective, we divide it into three (3) groups.
 
+1) Why customers are leaving the retail store?
+2) 
