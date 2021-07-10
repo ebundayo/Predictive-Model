@@ -12,13 +12,11 @@ Database source:  https://github.com/Microsoft/sql-server-samples/releases/downl
 **Problem Statement** </li><br>
 Main Objective is to predict if AHG's customer will be churned between 90 days,  i.e when customer's churn propensity exceeds a specific threshold, say **0.7**, and provide  retention plans. Hence, to achieve this objective, we divide it into three (3) groups. </li><br>
 
-1) Why customers are leaving the retail store? <li>
-  The reason behind customer leaving the company could be <br>
-  1. Poor customer service
-  2. Pricing
-  3. Product Bugging
-  4. Poor marketing campiagns
-  
-2) How to d
-  
+1) Why customers are leaving the retail store? <li><br>
+   The reason behind customer leaving the company could be <br>
+     1. Poor customer service
+     2. Pricing
+     3. Product Bugging
+     4. Poor marketing campiagns
+
   
