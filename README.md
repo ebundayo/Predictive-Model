@@ -18,5 +18,10 @@ Main Objective is to predict if AHG's customer will be churned between 90 days, 
      2. Pricing
      3. Product Bugging
      4. Poor marketing campiagns
+2) How to detect the churn customers? <br>
+     -  Periodic chek of their purchasing pattern 
+     -  Analysing complain/Feedback
+     -  Analysis competitors offers
+
 
   
