@@ -19,9 +19,16 @@ Main Objective is to predict if AHG's customer will be churned between 90 days, 
      3. Product Bugging
      4. Poor marketing campiagns
 2) How to detect the churn customers? <br>
-     -  Periodic chek of their purchasing pattern 
+     -  Periodic check of their purchasing pattern 
      -  Analysing complain/Feedback
      -  Analysis competitors offers
+3) How to prevent customers from leaving the store?
+   Once, we determine customer's propensity rate, we can apply;
+      -  Retention strategies.
+      -  Discount coupon
+      -  Improved customer service
+      -  Recommend products 
+   
 
 
   
