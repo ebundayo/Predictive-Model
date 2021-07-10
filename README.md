@@ -14,15 +14,15 @@ Main Objective is to predict if AHG's customer will be churned between 90 days, 
 
 1) Why customers are leaving the retail store? <br>
    The reason behind customer leaving the company could be 
-     1. Poor customer service
-     2. Pricing
-     3. Product Bugging
-     4. Poor marketing campiagns
+     - Poor customer service
+     - Pricing
+     - Product Bugging
+     - Poor marketing campiagns
 2) How to detect the churn customers? <br>
      -  Periodic check of their purchasing pattern 
      -  Analysing complain/Feedback
      -  Analysis competitors offers
-3) How to prevent customers from leaving the store?
+3) How to prevent customers from leaving the store? <br>
    Once, we determine customer's propensity rate, we can apply;
       -  Retention strategies.
       -  Discount coupon
