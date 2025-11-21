@@ -31,4 +31,4 @@ Main Objective is to predict if AHG's customer will be churned between 90 days, 
       -  Improve customer service
       -  Recommend products 
       
-**You can find detail information about this project at here** - https://
+**You can find detail information about this project at here** - 
